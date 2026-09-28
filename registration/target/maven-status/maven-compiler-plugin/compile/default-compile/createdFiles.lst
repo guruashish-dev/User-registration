@@ -1,0 +1,6 @@
+com\klu\registration\RegistrationApplication.class
+com\klu\registration\service\UserService.class
+com\klu\registration\controller\UserController.class
+com\klu\registration\entity\User.class
+com\klu\registration\exception\EmailAlreadyExistsException.class
+com\klu\registration\repository\UserRepository.class

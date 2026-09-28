@@ -1,0 +1,6 @@
+D:\User Registration\registration\src\main\java\com\klu\registration\controller\UserController.java
+D:\User Registration\registration\src\main\java\com\klu\registration\entity\User.java
+D:\User Registration\registration\src\main\java\com\klu\registration\exception\EmailAlreadyExistsException.java
+D:\User Registration\registration\src\main\java\com\klu\registration\RegistrationApplication.java
+D:\User Registration\registration\src\main\java\com\klu\registration\repository\UserRepository.java
+D:\User Registration\registration\src\main\java\com\klu\registration\service\UserService.java
