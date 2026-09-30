@@ -1,3 +1,4 @@
+## commands to be run in 2 terminals
 ## Terminal 1
 cd registration
 mvn spring-boot:run
